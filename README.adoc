@@ -1,0 +1,34 @@
+= My Resume
+
+== General Information
+
+I've always been fascinated the by beauty and elegance of documents created with LaTeX after one 
+of my mentors had introduced me to it. I made attempts learning LaTeX by writing simple basic 
+documents. Back in the early 2000s as I attempted to learn intermediate to advanced stuff, 
+I thought it was such a hassle and time consuming to author and render those documents in LaTeX 
+compared to just using OpenOffice or MS Word. 
+
+Over the years, I've created and maintained versions of my resume either in MS Word, OpenOffice, 
+or Apple Pages. While I liked them, it was always a struggle to get to the format and layout to 
+my satisfaction.
+
+Having stumbled upon https://www.overleaf.com/latex/templates/awesome-source-cv/wrdjtkkytqcw[YAAC: Another Awesome CV], I thought it would be great to write versions of 
+my resume hereon out using LaTeX as well as use Git as the SCM to keep versions of it. This will 
+also be my attempt to rekindle that fascination and relearn LaTeX.
+
+== Quickstart
+
+_Quickstart guide goes here..._
+
+== Development Build
+
+_Development build instructions go here..._
+
+== Reference
+
+* https://github.com/darwiin/yaac-another-awesome-cv[Darwiin]'s GitHub repo
+* https://www.overleaf.com/latex/templates/awesome-source-cv/wrdjtkkytqcw[YAAC: Another Awesome CV]
+
+== Notes
+
+_Other Notes go here..._
